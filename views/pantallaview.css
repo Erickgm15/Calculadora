@@ -1,0 +1,12 @@
+.pantalla{
+    background-color : grey;
+    
+    margin: auto;
+    height: 18rem;
+    font-size: 5rem;
+    text-align: right;
+    align-items: end;
+    display: flex;
+    justify-content: right;
+    
+}
